@@ -3,8 +3,8 @@
 A full-stack admin dashboard for WeatherGuard with Google OAuth authentication and real-time user management.
 
 ### ✨ Live Demo
-**Frontend:** https://weatherguard-xyz.vercel.app  
-**Backend API:** https://weatherguard-api-xyz.up.railway.app
+**Frontend:** https://weatherguard-giatdshkx-weather-guard.vercel.app  
+**Backend API:** https://weatherguard-api-c2lx.onrender.com
 
 ### 🚀 Features
 - **Google OAuth Login** - Secure admin authentication flow
